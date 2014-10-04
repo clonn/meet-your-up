@@ -5,6 +5,7 @@
 * [人爲什麼要活動](section/intro.md)
 * [一個人的開始](section/how_start.md)
 * [前期的需求](section/prepare.md)
+* [執行的需求](section/execute.md)
 * [怎麽執行進行](section/how_process.md)
 * [很講求執行力的現實](section/execution.md)
 * [你不會一直一個人](section/you_not_alone.md)
