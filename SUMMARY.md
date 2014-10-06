@@ -8,6 +8,8 @@
 * [執行的需求](section/execute.md)
 * [怎麽執行進行](section/how_process.md)
 * [很講求執行力的現實](section/execution.md)
+* [對於內在影響的處置](section/internal_effect.md)
+* [對於外在影響的處置](section/external_effect.md)
 * [你不會一直一個人](section/you_not_alone.md)
 * [社羣的內容需要被規劃](section/how_plan.md)
 * [也許需要收費，也許不用](section/earn.md)
